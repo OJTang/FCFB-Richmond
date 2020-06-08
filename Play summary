@@ -1,0 +1,13 @@
+Home score|Away score|Quarter|Clock|Ball Location|Possession|Down|Yards to go|Defensive number|Offensive number|Defensive submitter|Offensive submitter|Play|Result|Actual result|Yards|Play time|Runoff time
+0|0|1|420|-1|home|1|10||||||DELAY_OF_GAME|DELAY_OF_GAME|||
+--------------------------------------------------------------------------------
+8|0|1|420|35|home|1|10|187|55|mcfcok9320|LocksTheFox|KICKOFF_NORMAL|TOUCHBACK|TOUCHBACK||0|0
+8|0|1|420|25|away|1|10|1312|1200|LocksTheFox|mcfcok9320|PASS|GAIN|GAIN|18|8|0
+8|0|1|412|43|away|1|10|909|1079|LocksTheFox|mcfcok9320|RUN|GAIN|GAIN|8|6|10
+8|0|1|396|51|away|2|2|1|1320|LocksTheFox|mcfcok9320|RUN|GAIN|GAIN|8|6|10
+8|0|1|380|59|away|1|10||||||DELAY_OF_GAME|DELAY_OF_GAME|||
+--------------------------------------------------------------------------------
+16|0|1|380|35|home|1|10|776|420|mcfcok9320|LocksTheFox|KICKOFF_NORMAL|TOUCHBACK|TOUCHBACK||0|0
+16|0|1|380|25|away|1|10|1492|1200|LocksTheFox|mcfcok9320|RUN|GAIN|GAIN|5|5|0
+16|0|1|375|30|away|2|5|555|1370|LocksTheFox|mcfcok9320|PASS|GAIN|GAIN|-5|5|10
+--------------------------------------------------------------------------------
